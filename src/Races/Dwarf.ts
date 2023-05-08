@@ -4,8 +4,8 @@ export default class Dwarf extends Race {
   private static racesInstances = 0;
   HP: number;
 
-  constructor(private n: string, private d: number) { // n: name - d: dexterity
-    super(n, d);
+  constructor(private _n: string, private _d: number) { // n: name - d: dexterity
+    super(_n, _d);
     this.HP = 80;
   }
 
