@@ -1,6 +1,6 @@
 export default abstract class Race {
   constructor(private _name: string, private _dexterity: number) {}
-
+  
   public static createdRacesInstances() {
     throw new Error('Not implemented');
   }
