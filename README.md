@@ -69,7 +69,7 @@ Veja mais abaixo!
 
 ## 100% :heavy_check_mark:
 
-![Project-trybers-and-dragons-grade]()
+![Project-trybers-and-dragons-grade](https://github.com/jonnoliveira/trybe-project-24-trybers-and-dragons/blob/main/images/trybers-and-dragons-grade.png)
 
 </details> 
  
